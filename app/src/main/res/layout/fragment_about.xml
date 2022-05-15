@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.AboutFragment">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="ABOUT"
+    android:textStyle="bold"
+    android:textSize="25sp"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/txtabout"/>
+
+
+    <TextView
+        android:id="@+id/txtlayout1"
+        android:layout_below="@+id/txtabout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADITYA KUMAR"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#2196f3"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="
+We have created here an app for the list of books apps where we can choose a book and get the details about it in a summary so that one can go through the books .As well as one can select the book according to the give rating and price.
+Many features has been also added like many fragments has been used, Add to favourites ,remove to favourite button has been also included, sorting of the books icons ,profile, about page ,and the most important thing is that during the whole process the user must be connected through  network connection.
+
+"
+        android:layout_below="@+id/txtlayout1"
+        />
+
+
+</RelativeLayout>

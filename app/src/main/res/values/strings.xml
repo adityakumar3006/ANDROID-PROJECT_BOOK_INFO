@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book world</string>
+    <string name="dashboard">dashboard</string>
+    <string name="profile">profile</string>
+    <string name="favourites">favourites</string>
+    <string name="navigation_drawer">navigation_drawer</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">dashboard fragment</string>
+    <string name="favourites_fragment">favourites_fragment</string>
+    <string name="profilefragment">profilefragment</string>
+    <string name="aboutfragment">aboutfragment</string>
+    <string name="sort">action_sort</string>
+</resources>

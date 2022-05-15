@@ -1,0 +1,9 @@
+com/aditya/example/bookworld/database/BookDatabase_Impl.java
+ com.aditya.example.bookworld.database.BookDatabase_Impl
+ com.aditya.example.bookworld.database.BookDatabase_Impl$1
+com/aditya/example/bookworld/database/BookDao_Impl.java
+ com.aditya.example.bookworld.database.BookDao_Impl
+ com.aditya.example.bookworld.database.BookDao_Impl$1
+ com.aditya.example.bookworld.database.BookDao_Impl$2
+com/aditya/example/bookworld/BuildConfig.java
+ com.aditya.example.bookworld.BuildConfig
